@@ -1,0 +1,1 @@
+This is my subsystem for the TRUST D.A.D Real estate webpage designed in Software Architectures 443 @GMU. The attached diagrams illustrate the provided code, as well as how it fit into the overall group project. 
